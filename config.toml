@@ -1,0 +1,4 @@
+baseURL = "http://sebortiz.com/"
+languageCode = "en-us"
+title = "Sebastian Ortiz's blog"
+theme = "ananke"
